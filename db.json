@@ -1,18 +1,18 @@
 {
   "admins": [
     {
-      "name": "shilpa",
+      "name": "shilpa shingnapure",
       "gmail": "shingnapureshilpa2@gmail.com",
       "password": "Gold@123",
       "number": "9653231898",
-      "createdTime": "2023-02-16T04:46:10.460Z",
+      "createdTime": "2023-02-16T06:59:38.397Z",
       "id": 1
     }
   ],
   "Society": [
     {
-      "societyName": "marathon",
-      "address": "New Panvel",
+      "societyName": "marathon nexaZone",
+      "address": "panvel",
       "pinCode": "201206",
       "adminId": 1,
       "id": 1
@@ -20,39 +20,48 @@
   ],
   "flats": [
     {
-      "flatNum": "202",
-      "floor": "3",
+      "flatNum": "101",
+      "floor": "1",
       "houseType": "1 bhk",
       "isSold": true,
       "SocietyId": 1,
-      "createdTime": "2023-02-16T04:59:01.530Z",
+      "createdTime": "2023-02-16T07:00:13.080Z",
       "id": 1
+    },
+    {
+      "flatNum": "102",
+      "floor": "1",
+      "houseType": "1 bhk",
+      "isSold": false,
+      "SocietyId": 1,
+      "createdTime": "2023-02-16T07:00:21.260Z",
+      "id": 2
     }
   ],
   "soldOutFlat": [
     {
-      "name": "rani",
+      "name": "shilpa",
       "number": "1234567891",
       "address": "panvel",
-      "floor": "3",
-      "flatNum": "202",
+      "floor": "1",
+      "flatNum": "101",
       "sellPrice": "3000000",
       "houseType": "1 bhk",
       "SocietyId": 1,
-      "createTime": "2023-02-16T05:01:04.111Z",
+      "createTime": "2023-02-16T07:07:22.912Z",
       "id": 1
     }
   ],
   "residents": [
     {
-      "name": "rani",
-      "flatNum": "202",
-      "floor": "3",
-      "MemberOfFamily": "2",
+      "name": "aditi",
+      "flatNum": "101",
+      "floor": "1",
+      "MemberOfFamily": "5",
       "PhoneNo": "1233456234",
       "residentionalType": "rental",
       "SocietyId": 1,
-      "createTime": "2023-02-16T05:00:39.234Z",
+      "createTime": "2023-02-16T07:00:50.481Z",
       "id": 1
     }
   ]

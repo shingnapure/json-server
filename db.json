@@ -1,0 +1,59 @@
+{
+  "admins": [
+    {
+      "name": "shilpa",
+      "gmail": "shingnapureshilpa2@gmail.com",
+      "password": "Gold@123",
+      "number": "9653231898",
+      "createdTime": "2023-02-16T04:46:10.460Z",
+      "id": 1
+    }
+  ],
+  "Society": [
+    {
+      "societyName": "marathon",
+      "address": "New Panvel",
+      "pinCode": "201206",
+      "adminId": 1,
+      "id": 1
+    }
+  ],
+  "flats": [
+    {
+      "flatNum": "202",
+      "floor": "3",
+      "houseType": "1 bhk",
+      "isSold": true,
+      "SocietyId": 1,
+      "createdTime": "2023-02-16T04:59:01.530Z",
+      "id": 1
+    }
+  ],
+  "soldOutFlat": [
+    {
+      "name": "rani",
+      "number": "1234567891",
+      "address": "panvel",
+      "floor": "3",
+      "flatNum": "202",
+      "sellPrice": "3000000",
+      "houseType": "1 bhk",
+      "SocietyId": 1,
+      "createTime": "2023-02-16T05:01:04.111Z",
+      "id": 1
+    }
+  ],
+  "residents": [
+    {
+      "name": "rani",
+      "flatNum": "202",
+      "floor": "3",
+      "MemberOfFamily": "2",
+      "PhoneNo": "1233456234",
+      "residentionalType": "rental",
+      "SocietyId": 1,
+      "createTime": "2023-02-16T05:00:39.234Z",
+      "id": 1
+    }
+  ]
+}
